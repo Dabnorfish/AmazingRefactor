@@ -1,0 +1,11 @@
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.deps.json
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.runtimeconfig.json
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.runtimeconfig.dev.json
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.dll
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.pdb
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.csprojAssemblyReference.cache
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.csproj.CoreCompileInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.AssemblyInfoInputs.cache
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.AssemblyInfo.cs
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.dll
+c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.pdb
