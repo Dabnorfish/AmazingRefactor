@@ -16,3 +16,20 @@ c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\Tests\obj\
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.dll
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\MazeRefactor.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\bin\Debug\netcoreapp2.1\MazeRefactor.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\Tests\obj\Debug\netcoreapp2.1\Tests.pdb

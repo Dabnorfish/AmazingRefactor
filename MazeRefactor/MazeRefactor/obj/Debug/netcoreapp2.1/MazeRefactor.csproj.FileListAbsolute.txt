@@ -9,3 +9,13 @@ c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefact
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.AssemblyInfo.cs
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.dll
 c:\users\developer\documents\visual studio 2017\Projects\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.deps.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\bin\Debug\netcoreapp2.1\MazeRefactor.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.dll
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.pdb
+C:\Users\Christian\Documents\GitHub\AmazingRefactor\AmazingRefactor\MazeRefactor\MazeRefactor\obj\Debug\netcoreapp2.1\MazeRefactor.csprojAssemblyReference.cache
