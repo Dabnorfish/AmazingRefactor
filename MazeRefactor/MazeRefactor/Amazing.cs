@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 public class Amazing
 {
     static int target = 0;      // where GOTO goes
@@ -14,6 +14,11 @@ public class Amazing
     private static void clear()
     {
         result = "";
+    }
+
+    private static void println()
+    {
+        result += "\r\n";
     }
 
     public static void print(String text)
@@ -34,8 +39,9 @@ public class Amazing
     public static void doit(int horizontal, int vertical)
     {
         clear();
-        print("Amazing - Copyright by Creative Computing, Morristown, NJ\n");
- 
+        print("Amazing - Copyright by Creative Computing, Morristown, NJ");
+        println();
+
         int h = horizontal;
         int v = vertical;
         if (h == 1 || v == 1) return;
@@ -59,8 +65,8 @@ public class Amazing
                 print(":--");
         }
         // 180
-        print(":\n");
-
+        print(":");
+        println();
 
         // 190
         int c = 1;
@@ -142,10 +148,13 @@ public class Amazing
                     if (wArray[r + 1, s] != 0)
                         GOTO(350);
                     else
-                        GOTO(340);
+                        GOTO(330);
+                    continue;
+                case 330:
+                    x = rnd(3);
+                    GOTO(340);
                     continue;
                 case 340:
-                    x = rnd(3);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
@@ -163,22 +172,25 @@ public class Amazing
                     continue;
                 case 360:
                     if (z == 1)
-                        GOTO(420);
+                        GOTO(410);
                     else
                         GOTO(370);
                     continue;
                 case 370:
                     q = 1;
-                    GOTO(400);
+                    GOTO(390);
                     continue;
                 case 380:
                     if (wArray[r, s + 1] != 0)
-                        GOTO(420);
+                        GOTO(410);
                     else
-                        GOTO(400);
+                        GOTO(390);
+                    continue;
+                case 390:
+                    x = rnd(3);
+                    GOTO(400);
                     continue;
                 case 400:
-                    x = rnd(3);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
@@ -186,10 +198,13 @@ public class Amazing
                     else if (x == 3)
                         GOTO(1090);
                     else
-                        GOTO(420);
+                        GOTO(410);
+                    continue;
+                case 410:
+                    x = rnd(2);
+                    GOTO(420);
                     continue;
                 case 420:
-                    x = rnd(2);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
@@ -217,22 +232,25 @@ public class Amazing
                     continue;
                 case 460:
                     if (z == 1)
-                        GOTO(520);
+                        GOTO(510);
                     else
                         GOTO(470);
                     continue;
                 case 470:
                     q = 1;
-                    GOTO(500);
+                    GOTO(490);
                     continue;
                 case 480:
                     if (wArray[r, s + 1] != 0)
-                        GOTO(520);
+                        GOTO(510);
                     else
-                        GOTO(500);
+                        GOTO(490);
+                    continue;
+                case 490:
+                    x = rnd(3);
+                    GOTO(500);
                     continue;
                 case 500:
-                    x = rnd(3);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
@@ -240,10 +258,13 @@ public class Amazing
                     else if (x == 3)
                         GOTO(1090);
                     else
-                        GOTO(520);
+                        GOTO(510);
+                    continue;
+                case 510:
+                    x = rnd(2);
+                    GOTO(520);
                     continue;
                 case 520:
-                    x = rnd(2);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
@@ -259,28 +280,34 @@ public class Amazing
                     continue;
                 case 540:
                     if (z == 1)
-                        GOTO(940);
+                        GOTO(590);
                     else
                         GOTO(550);
                     continue;
                 case 550:
                     q = 1;
-                    GOTO(580);
+                    GOTO(570);
                     continue;
                 case 560:
                     if (wArray[r, s + 1] != 0)
-                        GOTO(940);
+                        GOTO(590);
                     else
-                        GOTO(580);
+                        GOTO(570);
+                    continue;
+                case 570:
+                    x = rnd(2);
+                    GOTO(580);
                     continue;
                 case 580:
-                    x = rnd(2);
                     if (x == 1)
                         GOTO(940);
                     else if (x == 2)
                         GOTO(1090);
                     else
-                        GOTO(490);
+                        GOTO(590);
+                    continue;
+                case 590:
+                    GOTO(940);
                     continue;
                 case 600:
                     if (s - 1 == 0)
@@ -362,7 +389,7 @@ public class Amazing
                     continue;
                 case 730:
                     if (z == 1)
-                        GOTO(980);
+                        GOTO(780);
                     else
                         GOTO(740);
                     continue;
@@ -372,7 +399,7 @@ public class Amazing
                     continue;
                 case 750:
                     if (wArray[r, s + 1] != 0)
-                        GOTO(980);
+                        GOTO(780);
                     else
                         GOTO(760);
                     continue;
@@ -386,7 +413,10 @@ public class Amazing
                     else if (x == 2)
                         GOTO(1090);
                     else
-                        GOTO(980);
+                        GOTO(780);
+                    continue;
+                case 780:
+                    GOTO(980);
                     continue;
                 case 790:
                     if (r == h)
@@ -463,7 +493,7 @@ public class Amazing
                     GOTO(1090);
                     continue;
                 case 930:
-                    GOTO(210);
+                    GOTO(1190);
                     continue;
                 case 940:
                     wArray[r - 1, s] = c;
@@ -539,7 +569,7 @@ public class Amazing
                     continue;
                 case 1090:
                     if (q == 1)
-                        GOTO(1160);
+                        GOTO(1150);
                     else
                         GOTO(1100);
                     continue;
@@ -569,8 +599,11 @@ public class Amazing
                 case 1140:
                     GOTO(270);
                     continue;
-                case 1160:
+                case 1150:
                     z = 1;
+                    GOTO(1160);
+                    continue;
+                case 1160:
                     if (vArray[r, s] == 0)
                         GOTO(1180);
                     else
@@ -579,7 +612,7 @@ public class Amazing
                 case 1170:
                     vArray[r, s] = 3;
                     q = 0;
-                    GOTO(210);
+                    GOTO(1190);
                     continue;
                 case 1180:
                     vArray[r, s] = 1;
@@ -587,6 +620,9 @@ public class Amazing
                     r = 1;
                     s = 1;
                     GOTO(260);
+                    continue;
+                case 1190:
+                    GOTO(210);
                     continue;
                 case 1200:
                     target = -1;
@@ -608,7 +644,8 @@ public class Amazing
                     print("  I");  // 1260
             }
 
-            print(" \n");   // 1280
+            print(" ");   // 1280
+            println();
 
             for (int i = 1; i <= h; i++)
             {
@@ -620,7 +657,8 @@ public class Amazing
                     print(":  "); // 1320
             }
 
-            print(":\n");    // 1360
+            print(":");    // 1360
+            println();
         }
     }
 }
